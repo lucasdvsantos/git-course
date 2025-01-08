@@ -1,1 +1,1 @@
-Manual secops
+Manual secops - Seguranca de operacoes
