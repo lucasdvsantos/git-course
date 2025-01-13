@@ -1,2 +1,1 @@
 function login()[...]
-function checkPassword(){...}
