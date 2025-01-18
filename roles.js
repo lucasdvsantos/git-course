@@ -3,3 +3,4 @@ function createRole(){...}
 function removeRole(){...}
 function getRoles(){...}
 function editRole(){...}
+function addCache(){...}
